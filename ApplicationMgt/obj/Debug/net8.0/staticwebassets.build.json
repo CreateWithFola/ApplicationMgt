@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JmbSYC6znxPZrbTbHIZPEbvnIbviEQXECm6Rs++rh+Q=",
+  "Source": "ApplicationMgt",
+  "BasePath": "_content/ApplicationMgt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
